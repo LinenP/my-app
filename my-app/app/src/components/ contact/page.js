@@ -1,4 +1,4 @@
-import MenuBar from '../../components/MenuBar';
+import MenuBar from '../about/MenuBar';
 
 export default function Contact() {
   return (
